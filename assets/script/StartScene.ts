@@ -9,7 +9,7 @@ export class StartScene extends Component {
     @property(Button)
     btnRank: Button | null = null;
     @property(Button)
-    btnSkin: Button | null = null;
+    btnSkin: Button | null = null;  
     @property(Button)
     btnPlay: Button | null = null;
 
